@@ -1,5 +1,5 @@
 # ReverseProxy
-ReverseProxy in golang
+ReverseProxy in golang，激活Jrebel教程：https://mp.weixin.qq.com/s/FogJGjdXSCLanGYAO69wGA
 
 ## Use:
 
